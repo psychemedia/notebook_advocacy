@@ -1,3 +1,7 @@
 sympy
 seaborn
 control
+fiona
+folium
+selenium
+ggplot
