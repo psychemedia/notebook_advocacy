@@ -1,8 +1,9 @@
 sympy
 seaborn
 control
+gdal
 fiona
 folium
 selenium
 ggplot
-gdal
+
