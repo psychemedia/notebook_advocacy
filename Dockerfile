@@ -12,4 +12,4 @@ RUN /home/main/anaconda2/envs/python3/bin/pip install sympy seaborn control fion
 
 #Py2.7 installs
 RUN pip install sympy seaborn control fiona folium selenium ggplot shapely
-RUN conda install -y fiona
+RUN conda install -y -q fiona
