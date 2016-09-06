@@ -5,3 +5,4 @@ fiona
 folium
 selenium
 ggplot
+gdal
