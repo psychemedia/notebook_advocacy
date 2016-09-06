@@ -1,7 +1,6 @@
 sympy
 seaborn
 control
-gdal
 fiona
 folium
 selenium
